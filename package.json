@@ -2,12 +2,14 @@
   "name": "githubportfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ARodriguezHacks.github.io/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.25",
     "@fortawesome/free-brands-svg-icons": "^5.11.2",
     "@fortawesome/free-regular-svg-icons": "^5.11.2",
     "@fortawesome/free-solid-svg-icons": "^5.11.2",
     "@fortawesome/react-fontawesome": "^0.1.7",
+    "gh-pages": "^2.1.1",
     "node-sass": "^4.12.0",
     "react": "^16.10.2",
     "react-bulma-components": "3.1.3",
@@ -16,6 +18,8 @@
     "react-scripts": "3.2.0"
   },
   "scripts": {
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
