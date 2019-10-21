@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Contact extends Component {
+class Blog extends Component {
   render() {
     return (
       <section className="container">
