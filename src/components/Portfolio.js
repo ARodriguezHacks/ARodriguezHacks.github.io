@@ -44,7 +44,7 @@ class Portfolio extends Component {
           </div>
           <div className="column is-half-tablet is-one-third-desktop">
             <Card className="img">
-              <Card.Image src="./assets/img/parle-chat-edit-min-copy.png" />
+              <Card.Image src="./assets/img/parle-chat-edit-min.png" />
               <Card.Content>
                 <Content className="has-text-centered">
                   <h3>Parle!</h3>
@@ -60,7 +60,7 @@ class Portfolio extends Component {
           </div>
           <div className="column is-half-tablet is-one-third-desktop">
             <Card className="img">
-              <Card.Image src="./assets/img/bookmarktrove-1-min.png" />
+              <Card.Image src="./assets/img/bookmarktrove-3.png" />
               <Card.Content>
                 <Content className="has-text-centered">
                   <h3>BookmarkTrove</h3>
