@@ -11,7 +11,7 @@ class Portfolio extends Component {
         <div className="columns is-multiline is-centered">
           <div className="column is-half-tablet is-one-third-desktop">
             <Card className="img">
-              <Card.Image src="./assets/img/rhythmradiolandingcopy.png" />
+              <Card.Image src="./assets/imgs/rhythmradiolandingcopy.png" />
               <Card.Content>
                 <Content className="has-text-centered">
                 <h3>Rhythm Radio</h3>
@@ -28,7 +28,7 @@ class Portfolio extends Component {
           </div>
           <div className="column is-half-tablet is-one-third-desktop">
             <Card className="img">
-              <Card.Image src="./assets/img/travelbucketlandingcopy.png" />
+              <Card.Image src="./assets/imgs/travelbucketlandingcopy.png" />
               <Card.Content>
                 <Content className="has-text-centered">
                 <h3>TravelBucket</h3>
@@ -44,7 +44,7 @@ class Portfolio extends Component {
           </div>
           <div className="column is-half-tablet is-one-third-desktop">
             <Card className="img">
-              <Card.Image src="./assets/img/parle-chat-edit-min.png" />
+              <Card.Image src="./assets/imgs/parle-chat-edit-min.png" />
               <Card.Content>
                 <Content className="has-text-centered">
                   <h3>Parle!</h3>
@@ -60,7 +60,7 @@ class Portfolio extends Component {
           </div>
           <div className="column is-half-tablet is-one-third-desktop">
             <Card className="img">
-              <Card.Image src="./assets/img/bookmarktrove-3.png" />
+              <Card.Image src="./assets/imgs/bookmarktrove-3.png" />
               <Card.Content>
                 <Content className="has-text-centered">
                   <h3>BookmarkTrove</h3>
@@ -76,7 +76,7 @@ class Portfolio extends Component {
           </div>
           <div className="column is-half-tablet is-one-third-desktop">
             <Card className="img">
-              <Card.Image src="./assets/img/magicpongupdate-4-copy.png" />
+              <Card.Image src="./assets/imgs/magicpongupdate-4-copy.png" />
               <Card.Content>
                 <Content className="has-text-centered">
                   <h3>Magic Pong</h3>
