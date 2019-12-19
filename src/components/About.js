@@ -8,7 +8,7 @@ class About extends Component {
         <div className="columns">
           <div className="column">
             <figure>
-              <img src="./assets/img/angieprofile.jpg" alt="Profile"/>
+              <img src="./assets/imgs/angieprofile.jpg" alt="Profile"/>
             </figure>
           </div>
           <div className="column">
