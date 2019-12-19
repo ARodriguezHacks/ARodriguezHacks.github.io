@@ -9,7 +9,7 @@ class Homepage extends Component {
         <div className="hero-body">
           <div className="container">
             <h1 className="title is-1">Angie Rodriguez</h1>
-            <h4 className="subtitle is-3">I'm a full-stack web developer based in Vancouver, WA.</h4>
+            <h4 className="subtitle is-3">I'm a front-end developer based in the Portland, OR area.</h4>
           </div>
         </div>
       </section>
