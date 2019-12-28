@@ -17,7 +17,7 @@ class Portfolio extends Component {
                 <h3>Favorite Fonts</h3>
                 A Google Fonts landing page clone built with plain JavaScript and FlexBox<br />
                 <em>(Vanilla JavaScript, HTML5, CSS3, FlexBox)</em><br />
-                <a href="https://angies-favorite-fonts.herokuapp.com" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={['fab', 'github-square']} size="2x" className="icon-spacing" />View project on Github</a>
+                <a href="https://github.com/ARodriguezHacks/favorite-fonts" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={['fab', 'github-square']} size="2x" className="icon-spacing" />View project on Github</a>
                   <br />
                   View demo on<br /> 
                   <a href="https://angies-favorite-fonts.herokuapp.com/" target="_blank" rel="noopener noreferrer" className="has-text-link"> Heroku</a>
@@ -76,7 +76,7 @@ class Portfolio extends Component {
           </div>
           <div className="column is-half-tablet is-one-third-desktop">
             <Card className="img">
-              <Card.Image src="assets/img/magicpongupdate-4-copy.png" />
+              <Card.Image src="./assets/img/magicpongupdate-4-copy.png" />
               <Card.Content>
                 <Content className="has-text-centered">
                   <h3>Magic Pong</h3>
