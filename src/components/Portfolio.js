@@ -9,7 +9,7 @@ class Portfolio extends Component {
       <section className="container">
       <h1 className="title is-1">Projects</h1>
         <div className="columns is-multiline is-centered">
-          <div className="column is-half-tablet is-one-third-desktop">
+          <div className="column card-spacing is-two-thirds-tablet is-half-desktop">
             <Card className="img">
               <Card.Image src="./assets/img/favorite-fonts-min.png" />
               <Card.Content>
@@ -26,7 +26,7 @@ class Portfolio extends Component {
               </Card.Content>
             </Card>
           </div>
-          <div className="column is-half-tablet is-one-third-desktop">
+          <div className="column card-spacing is-two-thirds-tablet is-half-desktop">
             <Card className="img">
               <Card.Image src="./assets/img/tb-portfolio.png" />
               <Card.Content>
@@ -42,7 +42,7 @@ class Portfolio extends Component {
               </Card.Content>
             </Card>
           </div>
-          <div className="column is-half-tablet is-one-third-desktop">
+          <div className="column card-spacing is-two-thirds-tablet is-half-desktop">
             <Card className="img">
               <Card.Image src="./assets/img/parle-chat-portfolio.png" />
               <Card.Content>
@@ -58,23 +58,7 @@ class Portfolio extends Component {
               </Card.Content>
             </Card>
           </div>
-          <div className="column is-half-tablet is-one-third-desktop">
-            <Card className="img">
-              <Card.Image src="./assets/img/bookmarktrove-3.png" />
-              <Card.Content>
-                <Content className="has-text-centered">
-                  <h3>BookmarkTrove</h3>
-                  Pinterest-clone for saving your web bookmarks<br />
-                  <em>(Ruby on Rails, Bulma CSS Framework)</em><br />
-                  <a href="https://github.com/ARodriguezHacks/bookmarktrove" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={['fab', 'github-square']} size="2x" className="icon-spacing" />View project on Github</a>
-                  <br />
-                  View demo on 
-                  <a href="https://bookmarktrove.herokuapp.com" target="_blank" rel="noopener noreferrer" className="has-text-link"> Heroku</a>
-                </Content>
-              </Card.Content>
-            </Card>
-          </div>
-          <div className="column is-half-tablet is-one-third-desktop">
+          <div className="column card-spacing is-two-thirds-tablet is-half-desktop">
             <Card className="img">
               <Card.Image src="./assets/img/magicpongupdate-4-copy.png" />
               <Card.Content>
