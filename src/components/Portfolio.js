@@ -11,16 +11,16 @@ class Portfolio extends Component {
         <div className="columns is-multiline is-centered">
           <div className="column is-half-tablet is-one-third-desktop">
             <Card className="img">
-              <Card.Image src="./assets/imgs/rhythmradiolandingcopy.png" />
+              <Card.Image src="./assets/img/favorite-fonts-min.png" />
               <Card.Content>
                 <Content className="has-text-centered">
-                <h3>Rhythm Radio</h3>
-                A music player app with standard music controls built with React.js<br />
-                <em>(JavaScript, React.js, Custom CSS, Font Awesome)</em><br />
-                <a href="https://github.com/ARodriguezHacks/rhythm-radio" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={['fab', 'github-square']} size="2x" className="icon-spacing" />View project on Github</a>
+                <h3>Favorite Fonts</h3>
+                A Google Fonts landing page clone built with plain JavaScript and FlexBox<br />
+                <em>(Vanilla JavaScript, HTML5, CSS3, FlexBox)</em><br />
+                <a href="https://angies-favorite-fonts.herokuapp.com" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={['fab', 'github-square']} size="2x" className="icon-spacing" />View project on Github</a>
                   <br />
                   View demo on<br /> 
-                  <a href="https://rhythmradio.herokuapp.com" target="_blank" rel="noopener noreferrer" className="has-text-link"> Heroku</a>
+                  <a href="https://angies-favorite-fonts.herokuapp.com/" target="_blank" rel="noopener noreferrer" className="has-text-link"> Heroku</a>
                   <br />
                 </Content>
               </Card.Content>
@@ -28,7 +28,7 @@ class Portfolio extends Component {
           </div>
           <div className="column is-half-tablet is-one-third-desktop">
             <Card className="img">
-              <Card.Image src="./assets/imgs/travelbucketlandingcopy.png" />
+              <Card.Image src="./assets/img/tb-portfolio.png" />
               <Card.Content>
                 <Content className="has-text-centered">
                 <h3>TravelBucket</h3>
@@ -44,7 +44,7 @@ class Portfolio extends Component {
           </div>
           <div className="column is-half-tablet is-one-third-desktop">
             <Card className="img">
-              <Card.Image src="./assets/imgs/parle-chat-edit-min.png" />
+              <Card.Image src="./assets/img/parle-chat-portfolio.png" />
               <Card.Content>
                 <Content className="has-text-centered">
                   <h3>Parle!</h3>
@@ -60,7 +60,7 @@ class Portfolio extends Component {
           </div>
           <div className="column is-half-tablet is-one-third-desktop">
             <Card className="img">
-              <Card.Image src="./assets/imgs/bookmarktrove-3.png" />
+              <Card.Image src="./assets/img/bookmarktrove-3.png" />
               <Card.Content>
                 <Content className="has-text-centered">
                   <h3>BookmarkTrove</h3>
@@ -76,7 +76,7 @@ class Portfolio extends Component {
           </div>
           <div className="column is-half-tablet is-one-third-desktop">
             <Card className="img">
-              <Card.Image src="./assets/imgs/magicpongupdate-4-copy.png" />
+              <Card.Image src="assets/img/magicpongupdate-4-copy.png" />
               <Card.Content>
                 <Content className="has-text-centered">
                   <h3>Magic Pong</h3>

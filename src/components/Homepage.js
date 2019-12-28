@@ -5,11 +5,11 @@ class Homepage extends Component {
   render() {
     return (
       <section className="hero">
-      <section className="hero is-fullheight has-text-centered">
+      <section className="hero is-fullheight">
         <div className="hero-body">
-          <div className="container">
-            <h1 className="title is-1">Angie Rodriguez</h1>
-            <h4 className="subtitle is-3">I'm a front-end developer based in the Portland, OR area.</h4>
+          <div className="container intro has-text-centered">
+            <h1 className="title logo">Angie Rodriguez</h1>
+            <h3 className="subtitle is-3"><strong>I'm a front-end developer based in the Portland, OR area.</strong></h3>
           </div>
         </div>
       </section>

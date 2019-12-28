@@ -9,7 +9,6 @@ import 'react-bulma-components/dist/react-bulma-components.min.css';
 import Homepage from './components/Homepage';
 import About from './components/About';
 import Portfolio from './components/Portfolio';
-import Blog from './components/Blog';
 
 library.add(fab, faCoffee, faHeart, faEnvelope);
 
@@ -43,7 +42,6 @@ class App extends Component {
               <div className="navbar-end">
                 <Link to='/About' className="navbar-item">About</Link>
                 <Link to='/Portfolio' className="navbar-item">Portfolio</Link>
-                <Link to='/Blog' className="navbar-item">Blog</Link>
               </div>
             </div>
           </nav>
@@ -52,7 +50,6 @@ class App extends Component {
           <Route exact path="/" component={Homepage} />
           <Route path="/about" component={About} />
           <Route path="/portfolio" component={Portfolio} />
-          <Route path="/blog" component={Blog} />
         </main>
         <footer className="footer footer-position">
           <div className="content">
