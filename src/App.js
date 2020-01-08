@@ -3,7 +3,7 @@ import './App.scss';
 import { Route, Link } from 'react-router-dom';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { fab } from '@fortawesome/free-brands-svg-icons';
-import { faCoffee,faHeart, faEnvelope } from '@fortawesome/free-solid-svg-icons';
+import { faCoffee, faHeart, faEnvelope } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import 'react-bulma-components/dist/react-bulma-components.min.css';
 import Homepage from './components/Homepage';

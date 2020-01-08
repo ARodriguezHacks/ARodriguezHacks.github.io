@@ -28,6 +28,25 @@
 
 .profile-img {
   box-shadow: 0px 0px 10px gray;
+  width: 80%;
+}
+
+#about-h2 {
+  width: fit-content;
+  margin: 0 auto;
+  padding-bottom: 5%;
+}
+
+.bio-padding {
+  padding: 0 10% 5% 10%;
+}
+
+.img-position {
+  text-align: center;
+}
+
+.icon-adjust {
+  width: 60px;
 }
 
 a {
@@ -36,4 +55,10 @@ a {
 
 .footer-position {
   margin: 0;
+}
+
+@media (min-width: 426px) and (max-width: 1023px) {
+  .profile-img {
+    width: 50%;
+  }
 }
