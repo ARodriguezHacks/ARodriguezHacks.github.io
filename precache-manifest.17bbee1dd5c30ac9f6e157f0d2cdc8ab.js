@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "586492eb3c720863968b15cbe3bb868b",
+    "revision": "71799ef6c38b2b6fae9711df6f3c58f7",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.46f0bf41.chunk.css"
   },
   {
-    "revision": "0828d1cb752550cea972",
+    "revision": "0f24c5392fd59a561333",
     "url": "/static/css/main.84b2a42a.chunk.css"
   },
   {
@@ -20,15 +20,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.2a3b02ac.chunk.js.LICENSE"
   },
   {
-    "revision": "0828d1cb752550cea972",
-    "url": "/static/js/main.0014ad2f.chunk.js"
+    "revision": "0f24c5392fd59a561333",
+    "url": "/static/js/main.6d668fd8.chunk.js"
   },
   {
     "revision": "470fe065c7ab3961893d",
     "url": "/static/js/runtime-main.cc025b44.js"
   },
   {
-    "revision": "0015c9ad9792ee825a9b75f708796942",
-    "url": "/static/media/ANGIE_RODRIGUEZ_2020_resume.0015c9ad.pdf"
+    "revision": "5f84210851784b455a24642f89fef722",
+    "url": "/static/media/ANGIE_RODRIGUEZ_2020_DEVELOPER.5f842108.pdf"
   }
 ]);
