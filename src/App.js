@@ -9,7 +9,7 @@ import 'react-bulma-components/dist/react-bulma-components.min.css';
 import Homepage from './components/Homepage';
 import About from './components/About';
 import Portfolio from './components/Portfolio';
-import Resume from './pdf/ANGIE_RODRIGUEZ_2020_DEVELOPER.pdf';
+import Resume from './pdf/ANGIE_RODRIGUEZ_DEV_2020.pdf';
 
 library.add(fab, faCoffee, faHeart, faEnvelope);
 
