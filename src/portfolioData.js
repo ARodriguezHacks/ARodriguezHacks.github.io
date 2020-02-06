@@ -12,6 +12,17 @@ export default [
   },
   {
     id: 2,
+    image: '/assets/img/speedyspanish-img1-min.png',
+    alt: 'SpeedySpanish Quiz Project',
+    title: 'SpeedySpanish Quiz',
+    description: 'A multiple-choice quiz app to learn Spanish.',
+    github: 'https://github.com/ARodriguezHacks/speedy-spanish-quiz',
+    logo: '/assets/icons/iconfinder_netlify_4691413.png',
+    deployedAlt: 'Netlify Logo',
+    deployed: 'https://speedyspanishquiz.netlify.com/'
+  },
+  {
+    id: 3,
     image: '/assets/img/parle-chat-portfolio.png',
     alt: 'Parle! Chat App Project',
     title: 'Parle!',
@@ -22,11 +33,11 @@ export default [
     deployed: 'https://my-firebase-react-chatapp.web.app'
   },
   {
-    id: 3,
+    id: 4,
     image: '/assets/img/favorite-fonts-min.png',
     alt: 'Favorite Fonts Project',
     title: 'Favorite Fonts',
-    description: 'A Google Fonts landing page clone built with plain JavaScript and FlexBox',
+    description: 'A Google Fonts landing page clone built with plain JavaScript and FlexBox.',
     github: 'https://github.com/ARodriguezHacks/favorite-fonts',
     logo: '/assets/icons/002-heroku.png',
     deployedAlt: 'Heroku Logo',
